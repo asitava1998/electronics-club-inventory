@@ -1,0 +1,26 @@
+.table {
+    width: 75%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    margin: 0px auto
+}
+
+.table th {
+  text-align: center;
+}
+.btn-default {
+    color: #F7F9F9;
+    background-color: #21618C;
+    border-color: #156;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
